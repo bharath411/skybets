@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SkyBets" >
+
+	<test name="markets">
+		<classes>
+			<class name="com.bharath.skybets.runners.SkyRunner"></class>
+		</classes>
+	</test>
+
+</suite>
